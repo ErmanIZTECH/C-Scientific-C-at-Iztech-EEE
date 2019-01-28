@@ -1,7 +1,7 @@
-#include <math.h>
+#include <math.h> 
 #include <conio.h>
 #include <stdio.h>
-float frobnorm(float matrix[5][5]);
+float frobnorm(float matrix[5][5]); //Frobeneus Norm Calculator Function
 int main(int argc,char **argv)
 {
     float tot1=0,tot2=0,Res[5][5];
